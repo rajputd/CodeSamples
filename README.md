@@ -1,5 +1,7 @@
 <h1>Code Samples</h1>
 
+Here are a few more samples of my work.
+
 <b>calculator.cpp</b>
 
 A calculator that can parse moderately complex arithmetic expressions.
