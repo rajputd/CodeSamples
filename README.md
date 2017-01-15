@@ -1,4 +1,4 @@
-<h1>Portfolio</h1>
+<h1>Code Samples</h1>
 
 <b>calculator.cpp</b>
 
